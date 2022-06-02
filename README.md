@@ -2,7 +2,7 @@
     <a target='_blank' href="https://twitch.tv/xeraass">
         <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white">
     </a>
-    <a target='_blank' href="https://twitter.com/arthurvgcs">
+    <a target='_blank' href="https://twitter.com/xeraass">
         <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
     </a>
     <a target='_blank' href="https://instagram.com/arthurvgcs">
@@ -22,14 +22,14 @@ I don't really know how u got here, but I will try to show a little bit about my
 
 My name is Arthur Vinicius. I currently live in Natal, Brazil and i am study Information Technology on UFRN
 
-On my free time, I study web developer using HTML, CSS, Bootstrap, JavaScript and PHP.
+On my free time, I study web developer using PHP and Laravel.
 
 Nowadays I decided to focus on study developer web for job in brazilian techonology startups and finish my university in UFRN and technical course in IMD.
 
 ## Detailed information
 
 * **Name**: Arthur Vinicius
-* **Age**: 19
+* **Age**: 20
 * **Living in**: Natal, Brazil
-* **Stack**: HTML - CSS - Bootstrap - JavaScript - PHP
+* **Stack**: PHP - Laravel
 * **University**: Information Techlogy in UFRN.
